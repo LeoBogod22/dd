@@ -2,13 +2,6 @@
 
 This application demonstrates how the Watson Conversation service can be adapted to use Tone Analyzer's tone along with intents and entities in a simple chat interface.
 
-![Demo GIF](readme_images/demo.gif?raw=true)
-
-Demo: http://food-coach.mybluemix.net/
-
-For more information on the Conversation service, see the [detailed documentation](https://console.bluemix.net/docs/services/conversation/index.html#about).
-For more information on the Tone Analyzer Service, see the [detailed documentation](http://www.ibm.com/watson/developercloud/tone-analyzer.html).
-
 # Deploying the application
 
 If you want to experiment with the application or use it as a basis for building your own application, you need to deploy it in your own environment. You can then explore the files, make changes, and see how those changes affect the running application. After making modifications, you can deploy your modified version of the application to the Bluemix cloud.
